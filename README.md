@@ -2,8 +2,6 @@
 
 A modern, responsive AI chat application built with React, TypeScript, and Google's Gemini 1.5 AI model. This application helps developers with code-related queries, debugging, and documentation.
 
-![AI Code Assistant Screenshot]
-
 ## 🌟 Features
 
 - **AI-Powered Code Assistance**
@@ -98,7 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://x.com/OSAMAIS29)
 
 Project Link: [https://github.com/Osamaislam1/ai-asssistant-with-gemini](https://github.com/Osamaislam1/ai-asssistant-with-gemini)
 
